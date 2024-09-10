@@ -7,5 +7,7 @@ const Error = () => {
     <Empty label="Something went wrong." />
    );
 }
+
+//iunniikn
  
 export default Error;
