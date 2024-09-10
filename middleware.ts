@@ -5,6 +5,7 @@ const isPublicRoute = createRouteMatcher([
   '/',           // Add the main route as a public route
   '/sign-in(.*)', 
   '/sign-up(.*)',
+  '/api/webhook',
 ]);
 
 // Custom Clerk middleware function
